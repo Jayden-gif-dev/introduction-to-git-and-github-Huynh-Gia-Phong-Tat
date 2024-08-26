@@ -1,0 +1,17 @@
+Hi,
+
+So I don't know if this is the way to do it but he said to try your best so here I am.
+
+I'm clueless when it comes to github.
+I don't know how to do most thing in here.
+
+I think I've connected my Github with Visual Studios since I can open a repo here.
+
+#ATTEMPT 1
+include <iostream>
+using namespace std
+
+int main(){
+cout << "Hello World?";
+return 0;
+}
